@@ -1,8 +1,3 @@
-# video-asset-extractor-skills[SKILL.md](https://github.com/user-attachments/files/30873390/SKILL.md)
----
- "剧本视觉资产提取工作流编排器。
- 协调5个阶段技能，从剧本提取角色/道具/场景并生成AI生图提示词。当用户需要从剧本生成视觉设定集或AI短剧资产时调用。"
----
 
 # 剧本视觉资产提取器 — 多阶段工作流编排器
 
